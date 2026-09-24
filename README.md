@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffffff,50:eaf7ff,100:dffcff&text=EDUARDA%20CASSOL&fontSize=48&fontColor=111827&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVA%20%7C%20BACKEND%20%7C%20TECHNOLOGY&descAlignY=60&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FCE7F3,50:F9A8D4,100:FBCFE8&text=EDUARDA%20CASSOL&fontSize=48&fontColor=111827&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVA%20%7C%20BACKEND%20%7C%20TECHNOLOGY&descAlignY=60&descSize=16&animation=fadeIn"/>
 
 <br>
 
@@ -392,7 +392,7 @@ Sistema para processamento, organização e análise de dados.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ffffff,50:eaf7ff,100:dffcff&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FBCFE8,50:F9A8D4,100:FCE7F3&section=footer"/>
 
 ### `SYSTEM STATUS: ONLINE`
 
