@@ -9,15 +9,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0099FF&center=true&vCenter=true&width=850&lines=Initializing+Developer+System...;Loading+Software+Engineering+Modules...;Java+Backend+Developer+in+Progress...;Building+APIs%2C+Systems+and+Solutions...;Learning.+Building.+Improving.;System+Ready+%E2%9C%93" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E11D74&center=true&vCenter=true&width=850&lines=Initializing+Developer+System...;Loading+Software+Engineering+Modules...;Java+Backend+Developer+in+Progress...;Building+APIs%2C+Systems+and+Solutions...;Learning.+Building.+Improving.;System+Ready+%E2%9C%93" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-0099FF?style=for-the-badge&logo=codefactor&logoColor=white"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-7C4DFF?style=for-the-badge&logo=rocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/STATUS-ONLINE-E11D74?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-F472B6?style=for-the-badge&logo=codefactor&logoColor=white"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-1F2937?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-374151?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </div>
 
 <br>
@@ -30,14 +29,14 @@
 
 ### Software Engineering • Java • Backend • Technology
 
-<img src="https://img.shields.io/badge/Engineering-Software-0099FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learning-Always-7C4DFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Building-Every_Day-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Engineering-Software-E11D74?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Java-F472B6?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning-Always-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Building-Every_Day-1F2937?style=flat-square"/>
 
 <br><br>
 
-> **"The future is built by those who decide to create it."**
+> **"There is a driving force more powerful than steam, electricity and nuclear power: the will"**
 
 </div>
 
@@ -76,11 +75,11 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluir continua
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00A8FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-F472B6?style=for-the-badge"/>
 <br><br>
-<img src="https://img.shields.io/badge/MISSION-BUILD-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MISSION-BUILD-E11D74?style=for-the-badge"/>
 <br><br>
-<img src="https://img.shields.io/badge/FUTURE-∞-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FUTURE-%E2%88%9E-1F2937?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -88,35 +87,6 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluir continua
 
 ---
 
-# ⚡ Developer Core
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                 JARVIS DEVELOPER CORE                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  SYSTEM STATUS       : ONLINE                                ║
-║  DEVELOPER           : EDUARDA                              ║
-║  PRIMARY LANGUAGE    : JAVA                                  ║
-║  DEVELOPMENT FOCUS   : BACKEND                               ║
-║  ARCHITECTURE        : REST / MVC                            ║
-║  DATABASE            : SQL / NoSQL                           ║
-║  VERSION CONTROL     : GIT                                   ║
-║  CURRENT MODE        : LEARNING + BUILDING                   ║
-║                                                              ║
-║  ┌────────────────────────────────────────────────────────┐  ║
-║  │                                                        │  ║
-║  │  "Every expert was once a beginner."                  │  ║
-║  │                                                        │  ║
-║  └────────────────────────────────────────────────────────┘  ║
-║                                                              ║
-║  SYSTEM MESSAGE:                                            ║
-║  Keep learning. Keep building. Keep improving.              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
 
 # 💻 Tech Stack
 
