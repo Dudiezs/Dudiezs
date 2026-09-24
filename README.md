@@ -25,7 +25,7 @@
 
 <div align="center">
 
-# 👩🏻‍💻 Olá, eu sou Dudiez
+# 👩🏻‍💻 Olá, eu sou a Dudiez
 
 ### Software Engineering • Java • Backend • Technology
 
